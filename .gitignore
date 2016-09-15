@@ -21,7 +21,7 @@ _cgo_export.*
 
 _testmain.go
 
-*.exe
+#*.exe
 *.test
 *.prof
 ### JetBrains template
@@ -64,4 +64,4 @@ _testmain.go
 # JIRA plugin
 atlassian-ide-plugin.xml
 
-/gradle-dep-ack
+#/gradle-dep-ack
